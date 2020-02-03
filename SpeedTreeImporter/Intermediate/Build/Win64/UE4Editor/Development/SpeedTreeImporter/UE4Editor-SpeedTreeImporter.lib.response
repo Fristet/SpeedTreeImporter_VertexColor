@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpeedTreeImporter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitRoot\CrowFPSv2\CrowFPS\Intermediate\Build\Win64\CrowFPSEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.cpp.obj"
+"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.gen.cpp.obj"
+"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Default.rc2.res"
+/OUT:"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\UE4Editor-SpeedTreeImporter.lib"
+/INCLUDE:IMPLEMENT_MODULE_SpeedTreeImporter
