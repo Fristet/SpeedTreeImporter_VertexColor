@@ -6,7 +6,7 @@ Edited SpeedTree Importer plugin with VertexColor for when you import st file in
 
 1. "SpeedTreeImporter" folder into your ue4 Plugins folder
 2. Open your .uproject to using any text editor
-3. Add a line under what you can found "Plugins"
+3. Add a line under "Plugins"
 
 ```
 "Plugins": [
