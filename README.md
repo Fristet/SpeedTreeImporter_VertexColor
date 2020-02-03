@@ -19,3 +19,5 @@ ex)
 ```
 
 enjoy
+
+© 2017 IDV, Inc. All rights reserved.
