@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpeedTreeImporter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\SpeedTreeImportFactory.cpp.obj"
+"D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.cpp.obj"
+"D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.gen.cpp.obj"
+"D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\UE4Editor-SpeedTreeImporter.lib"
+/INCLUDE:IMPLEMENT_MODULE_SpeedTreeImporter

@@ -1,0 +1,146 @@
+D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Definitions.SpeedTreeImporter.h
+D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Source\SpeedTreeImporter\Classes\SpeedTreeImportFactory.h
+D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\SpeedTreeImportFactory.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SUniformGridPanel.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\UnrealEd\Classes\Factories/MaterialFactoryNew.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialFactoryNew.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\UnrealEd\Classes\Factories/TextureFactory.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\UnrealEd\Classes\Factories\ImportSettings.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TextureFactory.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionClamp.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionClamp.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionComponentMask.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionComponentMask.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant3Vector.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant3Vector.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant4Vector.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant4Vector.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionLinearInterpolate.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionLinearInterpolate.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionPower.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionPower.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMultiply.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMultiply.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionSpeedTree.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionSpeedTree.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureCoordinate.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureCoordinate.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTwoSidedSign.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTwoSidedSign.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVertexColor.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionVertexColor.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstantBiasScale.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstantBiasScale.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\MainFrame\Public\Interfaces/IMainFrameModule.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\UnrealEd\Public\ObjectTools.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\UnrealEd/Private/GeomFitUtils.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\SpeedTreeWind.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\StaticMeshDescription\Public\StaticMeshAttributes.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MeshDescription\Public\MeshAttributes.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MeshDescription\Public\MeshDescription.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MeshDescription\Public\MeshElementArray.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MeshDescription\Public\MeshAttributeArray.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MeshDescription\Public\MeshElementRemappings.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshDescription.generated.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Core.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Extents.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/CoordSys.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Matrix.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Vector.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Types.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Types_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\xtgmath.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Vector_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cstring
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Matrix_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Extents_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/String.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Array.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\vcruntime_typeinfo.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Memory.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core\Allocator.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Array_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/FixedString.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core\PortableCrt.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cstdarg
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/FixedString_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/String_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Wind.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Wind_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/StaticArray_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Core_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/RenderState_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Geometry_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/VertexDecl_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTree8\TreeReader.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTree8\DataBuffer.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTree8\Platform.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTree8\Platform_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\SpeedTree\SpeedTree8\DataBuffer_inl.h
+D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Source\SpeedTreeImporter\Classes\SpeedTreeImportData.h
+D:\UnrealEngine\UnrealEngine\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
+D:\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\SpeedTreeImportData.generated.h
