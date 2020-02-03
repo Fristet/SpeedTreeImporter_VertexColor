@@ -1,6 +1,7 @@
 # SpeedTreeImporter_VertexColor
 [<img src="https://img.shields.io/badge/version-4.24-brightgreen" title="UE4 Version 4.24" alt="Version"></img>](https://github.com/EpicGames/UnrealEngine/tree/4.24)
-<img src="https://img.shields.io/badge/UE4-SpeedTree-orange" title="UE4 Version 4.24" alt="Version"></img>
+[<img src="https://img.shields.io/badge/UE4-SpeedTree-orange" title="SpeedTree" alt="Version"></img>]
+(http://speedtree.com/)
 
 Edited SpeedTree Importer plugin with VertexColor for when you import st file into UE4
 
