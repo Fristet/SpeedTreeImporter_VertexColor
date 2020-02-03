@@ -9,7 +9,6 @@ Edited SpeedTree Importer plugin with VertexColor for when you import st file in
 3. Add a line under what you can found "Plugins"
 
 ```
-ex)
 "Plugins": [
     {
       "Name": "SpeedTreeImporter",
