@@ -16,7 +16,7 @@
   "Installed": false,
   "Modules": [
     {
-      "Name": "Enhanced SpeedTreeImporter",
+      "Name": "SpeedTreeImporter",
       "Type": "Editor",
       "LoadingPhase": "Default"
     }

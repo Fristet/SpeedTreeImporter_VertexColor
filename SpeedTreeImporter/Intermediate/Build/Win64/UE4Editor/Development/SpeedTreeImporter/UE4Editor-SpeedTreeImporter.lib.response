@@ -6,10 +6,9 @@
 /NAME:"UE4Editor-SpeedTreeImporter.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"H:\GitRepo\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\SpeedTreeImportFactory.cpp.obj"
-"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.cpp.obj"
-"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.gen.cpp.obj"
-"H:\GitRepo\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\UE4Editor-SpeedTreeImporter.lib"
+"H:\Unreal Projects\SpeedTreeTest\Intermediate\Build\Win64\SpeedTreeTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.cpp.obj"
+"H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.gen.cpp.obj"
+"H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Default.rc2.res"
+/OUT:"H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\UE4Editor-SpeedTreeImporter.lib"
 /INCLUDE:IMPLEMENT_MODULE_SpeedTreeImporter
