@@ -6,9 +6,10 @@
 /NAME:"UE4Editor-SpeedTreeImporter.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\GitRoot\CrowFPSv2\CrowFPS\Intermediate\Build\Win64\CrowFPSEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
-"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.cpp.obj"
-"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.gen.cpp.obj"
-"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Default.rc2.res"
-/OUT:"D:\GitRoot\CrowFPSv2\CrowFPS\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\UE4Editor-SpeedTreeImporter.lib"
+"H:\GitRepo\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\SpeedTreeImportFactory.cpp.obj"
+"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.cpp.obj"
+"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Module.SpeedTreeImporter.gen.cpp.obj"
+"H:\GitRepo\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\UE4Editor-SpeedTreeImporter.lib"
 /INCLUDE:IMPLEMENT_MODULE_SpeedTreeImporter
