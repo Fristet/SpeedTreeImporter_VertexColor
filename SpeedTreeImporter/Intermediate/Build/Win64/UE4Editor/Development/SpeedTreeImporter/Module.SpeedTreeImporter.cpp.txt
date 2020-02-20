@@ -1,26 +1,164 @@
-H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Definitions.SpeedTreeImporter.h
-H:/GitRepo/UnrealEngine/Engine/Plugins/Editor/SpeedTreeImporter/Source/SpeedTreeImporter/Private/ReimportSpeedTreeFactory.cpp
-H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Source\SpeedTreeImporter\Classes\ReimportSpeedTreeFactory.h
-H:\GitRepo\UnrealEngine\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
-h:\gitrepo\unrealengine\engine\plugins\editor\speedtreeimporter\source\speedtreeimporter\classes\SpeedTreeImportFactory.h
-H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\SpeedTreeImportFactory.generated.h
-H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\ReimportSpeedTreeFactory.generated.h
-H:\GitRepo\UnrealEngine\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
-H:\GitRepo\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
-H:\GitRepo\UnrealEngine\Engine\Source\Editor\UnrealEd\Public\Factories.h
-H:\GitRepo\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
-H:\GitRepo\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
-H:\GitRepo\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
-H:/GitRepo/UnrealEngine/Engine/Plugins/Editor/SpeedTreeImporter/Source/SpeedTreeImporter/Private/SpeedTreeImportData.cpp
-H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Source\SpeedTreeImporter\Classes\SpeedTreeImportData.h
-H:\GitRepo\UnrealEngine\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
-H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\SpeedTreeImportData.generated.h
-H:\GitRepo\UnrealEngine\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
-h:\gitrepo\unrealengine\engine\source\editor\propertyeditor\public\IDetailPropertyRow.h
-H:\GitRepo\UnrealEngine\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
-h:\gitrepo\unrealengine\engine\source\editor\propertyeditor\public\IDetailCustomNodeBuilder.h
-h:\gitrepo\unrealengine\engine\source\editor\propertyeditor\public\DetailBuilderTypes.h
-H:\GitRepo\UnrealEngine\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
-H:\GitRepo\UnrealEngine\Engine\Source\Editor\PropertyEditor\Public\IDetailGroup.h
-H:/GitRepo/UnrealEngine/Engine/Plugins/Editor/SpeedTreeImporter/Source/SpeedTreeImporter/Private/SpeedTreeImporterModule.cpp
-H:\GitRepo\UnrealEngine\Engine\Plugins\Editor\SpeedTreeImporter\Source\SpeedTreeImporter\Public\ISpeedTreeImporter.h
+H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Development\SpeedTreeImporter\Definitions.SpeedTreeImporter.h
+H:/Unreal Projects/SpeedTreeTest/Plugins/SpeedTreeImporter/Source/SpeedTreeImporter/Private/ReimportSpeedTreeFactory.cpp
+H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Source\SpeedTreeImporter\Classes\ReimportSpeedTreeFactory.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+h:\unreal projects\speedtreetest\plugins\speedtreeimporter\source\speedtreeimporter\classes\SpeedTreeImportFactory.h
+H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\SpeedTreeImportFactory.generated.h
+H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\ReimportSpeedTreeFactory.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Factories.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
+H:/Unreal Projects/SpeedTreeTest/Plugins/SpeedTreeImporter/Source/SpeedTreeImporter/Private/SpeedTreeImportData.cpp
+H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Source\SpeedTreeImporter\Classes\SpeedTreeImportData.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
+H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Intermediate\Build\Win64\UE4Editor\Inc\SpeedTreeImporter\SpeedTreeImportData.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
+h:\epicgames\ue_4.24\engine\source\editor\propertyeditor\public\IDetailPropertyRow.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
+h:\epicgames\ue_4.24\engine\source\editor\propertyeditor\public\IDetailCustomNodeBuilder.h
+h:\epicgames\ue_4.24\engine\source\editor\propertyeditor\public\DetailBuilderTypes.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\PropertyEditor\Public\IDetailGroup.h
+H:/Unreal Projects/SpeedTreeTest/Plugins/SpeedTreeImporter/Source/SpeedTreeImporter/Private/SpeedTreeImporterModule.cpp
+H:\Unreal Projects\SpeedTreeTest\Plugins\SpeedTreeImporter\Source\SpeedTreeImporter\Public\ISpeedTreeImporter.h
+H:/Unreal Projects/SpeedTreeTest/Plugins/SpeedTreeImporter/Source/SpeedTreeImporter/Private/SpeedTreeImportFactory.cpp
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SUniformGridPanel.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\Factories/MaterialFactoryNew.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialFactoryNew.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\Factories/TextureFactory.h
+h:\epicgames\ue_4.24\engine\source\editor\unrealed\classes\factories\ImportSettings.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TextureFactory.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionClamp.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionClamp.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionComponentMask.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionComponentMask.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant3Vector.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant3Vector.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant4Vector.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant4Vector.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionLinearInterpolate.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionLinearInterpolate.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionPower.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionPower.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMultiply.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMultiply.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionSpeedTree.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionSpeedTree.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureCoordinate.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureCoordinate.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTwoSidedSign.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTwoSidedSign.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVertexColor.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionVertexColor.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstantBiasScale.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstantBiasScale.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\MainFrame\Public\Interfaces/IMainFrameModule.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\UnrealEd\Public\ObjectTools.h
+H:\EpicGames\UE_4.24\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+H:\EpicGames\UE_4.24\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+h:\epicgames\ue_4.24\engine\source\runtime\assetregistry\public\IAssetRegistry.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\Editor\UnrealEd/Private/GeomFitUtils.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\SpeedTreeWind.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\StaticMeshDescription\Public\StaticMeshAttributes.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\MeshDescription\Public\MeshAttributes.h
+h:\epicgames\ue_4.24\engine\source\runtime\meshdescription\public\MeshDescription.h
+h:\epicgames\ue_4.24\engine\source\runtime\meshdescription\public\MeshElementArray.h
+h:\epicgames\ue_4.24\engine\source\runtime\meshdescription\public\MeshAttributeArray.h
+h:\epicgames\ue_4.24\engine\source\runtime\meshdescription\public\MeshElementRemappings.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+H:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+H:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshDescription.generated.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Core.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Extents.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/CoordSys.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Matrix.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Vector.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Types.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Types_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Vector_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Matrix_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Extents_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/String.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Array.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Memory.h
+h:\epicgames\ue_4.24\engine\source\thirdparty\speedtree\speedtreesdk-v7.0\include\core\Allocator.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Array_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/FixedString.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+h:\epicgames\ue_4.24\engine\source\thirdparty\speedtree\speedtreesdk-v7.0\include\core\PortableCrt.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ctime
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\time.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdarg
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/FixedString_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/String_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Wind.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportBegin.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Wind_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/StaticArray_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Core_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/RenderState_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/Geometry_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/VertexDecl_inl.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTreeSDK-v7.0\Include\Core/ExportEnd.h
+H:\EpicGames\UE_4.24\Engine\Source\ThirdParty\SpeedTree\SpeedTree8\TreeReader.h
+h:\epicgames\ue_4.24\engine\source\thirdparty\speedtree\speedtree8\DataBuffer.h
+h:\epicgames\ue_4.24\engine\source\thirdparty\speedtree\speedtree8\Platform.h
+D:\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+h:\epicgames\ue_4.24\engine\source\thirdparty\speedtree\speedtree8\Platform_inl.h
+h:\epicgames\ue_4.24\engine\source\thirdparty\speedtree\speedtree8\DataBuffer_inl.h
