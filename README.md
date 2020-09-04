@@ -19,4 +19,4 @@ Edited SpeedTree Importer plugin with VertexColor for when you import st file in
 
 enjoy
 
-© 2017 IDV, Inc. All rights reserved.
+© 2020 IDV, Inc. All rights reserved.
